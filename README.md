@@ -21,8 +21,6 @@ It will generate an alert when hot-listed sites are browsed. The list of hot-lis
 You are welcome to offer suggestions for making the code more efficient. 
 Please make sure to update tests as appropriate.
 
-# License
-
 # Credits
 
 The coding was done by a BTech student from KIIT, Bhubaneswar, Mr, Jayesh Prem.
