@@ -1,4 +1,4 @@
-# Surveillance_RS
+# Surveillance Recommender System
 A case study on Surveillance Recommender Systems
 
 # MilitarySurveillance
