@@ -3,7 +3,7 @@ A case study on Surveillance Recommender Systems
 
 # Military Surveillance
 
-MilitarySurveillance is a Java code for flagging the browsing of government hotlisted sites and sending alerts to the concerned authorities.
+Military Surveillance is a Java code for flagging the browsing of government hotlisted sites and sending alerts to the concerned authorities.
 
 # Installation 
 
