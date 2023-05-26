@@ -1,7 +1,7 @@
 # Surveillance Recommender System
 A case study on Surveillance Recommender Systems
 
-# MilitarySurveillance
+# Military Surveillance
 
 MilitarySurveillance is a Java code for flagging the browsing of government hotlisted sites and sending alerts to the concerned authorities.
 
